@@ -15,7 +15,7 @@ This project was developed as part of my technical exploration into **API Integr
 * **Libraries:** `requests`, `json`, `os`, `time`
 * **API:** ip-api.com
 
-## 📖 How to Use
+##  How to Use
 1. Clone this repository:
    ```bash
    git clone https://github.com/oman78/advanced-ip-tracker.git
